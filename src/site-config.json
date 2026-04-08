@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "S&S Washing LLC",
+    "phone": "+15038605658",
+    "category": "pressure washing",
+    "city": "Portland",
+    "state": "OR"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Portland's Premier Pressure Washing",
+      "heroSubline": "Restore your curb appeal. Protect your investment. S&S Washing LLC delivers exceptional results across Portland.",
+      "aboutTitle": "S&S Washing: Portland's Trusted Clean",
+      "aboutText": [
+        "S&S Washing LLC started with a simple goal: to provide Portland homeowners and businesses with reliable, high-quality pressure washing services. We saw firsthand the toll that Portland's unique climate – the constant rain, the moss, the mildew – took on local properties.",
+        "Our approach is straightforward: We use the right equipment, the right techniques, and the right people for every job. We're not just blasting away dirt; we're protecting your investment and enhancing your property's appearance. We value clear communication, meticulous work, and exceeding expectations.",
+        "We're proud to be a part of the Portland community. We support local initiatives and strive to minimize our environmental impact by using eco-friendly cleaning solutions whenever possible. We believe in giving back to the city that has given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Years of experience tackling Portland's toughest grime and stains."
+        },
+        {
+          "title": "Advanced Equipment",
+          "description": "We utilize professional-grade pressure washers and surface cleaners for superior results."
+        },
+        {
+          "title": "Eco-Friendly Solutions",
+          "description": "Safe and effective cleaning agents that are gentle on the environment."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work and ensure you're completely satisfied with the results."
+        }
+      ],
+      "ctaHeadline": "Ready for a Spotless Clean?",
+      "ctaSubline": "Get a free quote today and see the S&S Washing difference."
+    },
+    "services": [
+      {
+        "slug": "house-washing",
+        "name": "House Washing",
+        "shortDescription": "Revitalize your home's exterior and protect it from the elements.",
+        "description": "Portland's wet climate breeds moss, mildew, and algae, which can damage siding, brick, and other exterior surfaces. Our house washing service removes these contaminants, preventing long-term damage and restoring your home's curb appeal. We use a soft washing technique that combines low pressure with specialized cleaning solutions to safely and effectively clean all types of siding, including vinyl, wood, stucco, and brick. \n\nOur process starts with a thorough assessment of your home's exterior to identify areas of concern and determine the appropriate cleaning solutions. We then apply our cleaning solution, allow it to dwell for a specified period, and rinse it away with low-pressure water. This method ensures a deep clean without damaging your siding or landscaping. \n\nWe pay close attention to detail, ensuring that all surfaces are thoroughly cleaned and rinsed. We also take precautions to protect your plants and outdoor furniture. With S&S Washing, you can be confident that your home will look its best, and its value will be protected.",
+        "process": [
+          "Step 1: Thorough inspection of the property.",
+          "Step 2: Application of eco-friendly cleaning solution.",
+          "Step 3: Gentle soft washing to remove dirt and grime.",
+          "Step 4: Final rinse and inspection."
+        ],
+        "benefits": [
+          "Removes unsightly mold, mildew, and algae.",
+          "Protects your siding from long-term damage.",
+          "Increases your home's curb appeal and value.",
+          "Creates a healthier living environment."
+        ],
+        "faq": [
+          {
+            "question": "What is soft washing?",
+            "answer": "Soft washing uses low pressure to apply cleaning solutions, preventing damage to delicate surfaces. It's ideal for siding, roofs, and fences."
+          },
+          {
+            "question": "How often should I wash my house?",
+            "answer": "We recommend washing your house every 1-2 years to prevent the buildup of dirt, grime, and organic growth."
+          },
+          {
+            "question": "Are your cleaning solutions safe for plants and pets?",
+            "answer": "Yes, we use eco-friendly cleaning solutions that are safe for plants, pets, and the environment."
+          }
+        ]
+      },
+      {
+        "slug": "roof-cleaning",
+        "name": "Roof Cleaning",
+        "shortDescription": "Protect your roof and prevent costly repairs with our professional cleaning services.",
+        "description": "A dirty roof isn't just an eyesore; it can also lead to serious damage and costly repairs. Moss, algae, and lichen trap moisture, which can weaken roofing materials and cause leaks. Our roof cleaning service removes these contaminants, extending the life of your roof and protecting your home. We use a specialized soft washing technique that is safe for all types of roofing materials, including asphalt shingles, tile, and metal. \n\nOur team understands the unique challenges of roof cleaning in Portland. We take extra care to protect your landscaping and prevent damage to your property. We also use environmentally friendly cleaning solutions that won't harm your plants or pets. \n\nDon't wait until it's too late. Protect your investment with our professional roof cleaning service. We'll remove the dirt, grime, and organic growth that's damaging your roof and restore its beauty. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Roof inspection and assessment.",
+          "Step 2: Application of algaecide to kill organic growth.",
+          "Step 3: Gentle soft washing to remove debris.",
+          "Step 4: Final inspection and debris removal."
+        ],
+        "benefits": [
+          "Extends the life of your roof.",
+          "Prevents costly repairs.",
+          "Improves your home's curb appeal.",
+          "Removes harmful moss and algae."
+        ],
+        "faq": [
+          {
+            "question": "Will roof cleaning damage my shingles?",
+            "answer": "No, our soft washing technique is safe for all types of roofing materials. We use low pressure to avoid damaging your shingles."
+          },
+          {
+            "question": "How long does roof cleaning last?",
+            "answer": "The results of roof cleaning can last for several years, depending on the environment and the type of roofing material."
+          },
+          {
+            "question": "Is roof cleaning worth the investment?",
+            "answer": "Yes, roof cleaning is a worthwhile investment that can save you money on costly repairs and extend the life of your roof."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-and-patio-cleaning",
+        "name": "Driveway & Patio Cleaning",
+        "shortDescription": "Remove stains and restore the beauty of your concrete and paver surfaces.",
+        "description": "Driveways and patios are prone to stains from oil, grease, dirt, and algae. These stains not only look unsightly but can also make surfaces slippery and dangerous. Our driveway and patio cleaning service removes these stains, restoring the beauty of your outdoor living spaces and making them safer for your family and guests. We use high-pressure washing equipment and specialized cleaning solutions to effectively clean concrete, pavers, brick, and other surfaces. \n\nWe understand that every driveway and patio is different. That's why we tailor our cleaning approach to meet the specific needs of your property. We'll assess the type of stains, the surface material, and the surrounding landscaping to determine the best cleaning method. \n\nWith S&S Washing, you can be confident that your driveway and patio will look their best. We'll remove the dirt, grime, and stains that are detracting from your property's appearance and restore its beauty.",
+        "process": [
+          "Step 1: Pre-treatment with degreaser and cleaner.",
+          "Step 2: High-pressure washing with surface cleaner.",
+          "Step 3: Post-treatment to prevent future stains.",
+          "Step 4: Thorough rinsing and debris removal."
+        ],
+        "benefits": [
+          "Removes unsightly stains from oil, grease, and dirt.",
+          "Restores the beauty of your outdoor living spaces.",
+          "Makes surfaces safer and less slippery.",
+          "Prevents the growth of algae and mildew."
+        ],
+        "faq": [
+          {
+            "question": "Can you remove oil stains from my driveway?",
+            "answer": "Yes, we use specialized degreasers and high-pressure washing equipment to effectively remove oil stains from concrete and asphalt driveways."
+          },
+          {
+            "question": "How long does it take to clean a driveway?",
+            "answer": "The time it takes to clean a driveway depends on its size and the severity of the stains. Most driveways can be cleaned in a few hours."
+          },
+          {
+            "question": "Do I need to be home during the cleaning?",
+            "answer": "No, you don't need to be home during the cleaning. We can work independently and will notify you when the job is complete."
+          }
+        ]
+      },
+      {
+        "slug": "fence-cleaning",
+        "name": "Fence Cleaning",
+        "shortDescription": "Extend the life of your fence and enhance its appearance with our professional cleaning services.",
+        "description": "Fences are exposed to the elements, making them susceptible to dirt, grime, algae, and mildew. These contaminants can not only make your fence look unsightly but can also damage the wood or vinyl over time. Our fence cleaning service removes these contaminants, extending the life of your fence and enhancing its appearance. We use a soft washing technique that is safe for all types of fences, including wood, vinyl, and metal. \n\nOur team takes pride in providing quality fence cleaning services in Portland. We understand the importance of protecting your property and ensuring that your fence looks its best. We use eco-friendly cleaning solutions that won't harm your plants or pets. We'll also take care to protect your landscaping and prevent damage to your property.\n\nDon't let a dirty fence detract from your property's appearance. Contact us today for a free estimate and let us restore your fence's beauty.",
+        "process": [
+          "Step 1: Inspection and assessment of the fence.",
+          "Step 2: Application of eco-friendly cleaning solution.",
+          "Step 3: Gentle soft washing to remove dirt and grime.",
+          "Step 4: Final rinse and inspection."
+        ],
+        "benefits": [
+          "Removes dirt, grime, algae, and mildew.",
+          "Extends the life of your fence.",
+          "Enhances your property's appearance.",
+          "Protects your fence from damage."
+        ],
+        "faq": [
+          {
+            "question": "Will fence cleaning damage my plants?",
+            "answer": "No, we use eco-friendly cleaning solutions that are safe for plants and pets. We also take precautions to protect your landscaping."
+          },
+          {
+            "question": "How often should I clean my fence?",
+            "answer": "We recommend cleaning your fence every 1-2 years to prevent the buildup of dirt, grime, and organic growth."
+          },
+          {
+            "question": "Can you remove graffiti from my fence?",
+            "answer": "Yes, we can remove graffiti from most types of fences. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Prevent water damage and protect your home with our thorough gutter cleaning services.",
+        "description": "Clogged gutters can cause a variety of problems, including water damage to your roof, siding, and foundation. They can also create breeding grounds for mosquitoes and other pests. Our gutter cleaning service removes leaves, debris, and other obstructions, ensuring that your gutters are functioning properly and protecting your home from water damage. We manually remove all debris from your gutters and downspouts, ensuring that they are clear and free-flowing. \n\nWe understand the importance of keeping your gutters clean and well-maintained. That's why we offer a comprehensive gutter cleaning service that includes: Removal of all leaves, debris, and other obstructions; Flushing of downspouts; Inspection of gutters for damage; Bagging and removal of debris. \n\nDon't wait until it's too late. Protect your home from water damage with our professional gutter cleaning service. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Removal of all leaves and debris from gutters.",
+          "Step 2: Flushing of downspouts to ensure proper flow.",
+          "Step 3: Inspection of gutters for damage.",
+          "Step 4: Bagging and removal of debris."
+        ],
+        "benefits": [
+          "Prevents water damage to your roof, siding, and foundation.",
+          "Eliminates breeding grounds for mosquitoes and other pests.",
+          "Extends the life of your gutters.",
+          "Protects your home from water damage."
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. If you live in an area with a lot of trees, you may need to clean them more often."
+          },
+          {
+            "question": "Can you repair damaged gutters?",
+            "answer": "Yes, we offer gutter repair services. Contact us for a free estimate."
+          },
+          {
+            "question": "Do I need to be home during the gutter cleaning?",
+            "answer": "No, you don't need to be home during the gutter cleaning. We can work independently and will notify you when the job is complete."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-pressure-washing",
+        "name": "Commercial Pressure Washing",
+        "shortDescription": "Maintain a professional image and protect your business with our commercial pressure washing services.",
+        "description": "First impressions matter. A clean and well-maintained exterior can attract customers and create a positive image for your business. Our commercial pressure washing service removes dirt, grime, graffiti, and other contaminants from your building's exterior, sidewalks, parking lots, and other surfaces. We use commercial-grade equipment and specialized cleaning solutions to effectively clean all types of surfaces, including concrete, brick, stucco, and metal. \n\nWe understand the unique needs of commercial properties. We offer flexible scheduling to minimize disruption to your business operations. We also take precautions to protect your landscaping and prevent damage to your property. \n\nWith S&S Washing, you can be confident that your business will look its best. We'll remove the dirt, grime, and graffiti that are detracting from your property's appearance and restore its beauty. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Site assessment and planning.",
+          "Step 2: Application of commercial-grade cleaning solutions.",
+          "Step 3: High-pressure washing with specialized equipment.",
+          "Step 4: Final inspection and cleanup."
+        ],
+        "benefits": [
+          "Maintains a professional image for your business.",
+          "Attracts customers and increases sales.",
+          "Protects your property from damage.",
+          "Creates a safe and healthy environment for employees and customers."
+        ],
+        "faq": [
+          {
+            "question": "Do you offer after-hours cleaning?",
+            "answer": "Yes, we offer after-hours cleaning to minimize disruption to your business operations."
+          },
+          {
+            "question": "Can you remove graffiti from my building?",
+            "answer": "Yes, we can remove graffiti from most types of surfaces. Contact us for a free estimate."
+          },
+          {
+            "question": "What types of businesses do you serve?",
+            "answer": "We serve a wide range of businesses, including restaurants, retail stores, office buildings, and industrial facilities."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Beaverton",
+        "slug": "beaverton-or",
+        "state": "OR",
+        "content": "S&S Washing LLC is proud to offer our professional pressure washing services to Beaverton, Oregon. This vibrant city, home to around 100,000 residents, features many homes built in the 1970s and 80s, a time when suburban ranch-style houses were popular. These homes, while charming, can accumulate moss, algae, and dirt over time due to our region's persistent rain.\n\nOur team understands the specific needs of Beaverton homeowners. We utilize gentle yet effective cleaning methods to restore the beauty of your home's exterior, from siding and roofs to driveways and decks. We are committed to providing top-notch service and outstanding results, ensuring your Beaverton home looks its best.",
+        "localContext": "Beaverton's mild, wet winters contribute to significant moss and algae growth on exterior surfaces. S&S Washing LLC provides solutions to combat this common issue.",
+        "nearbyAreas": [
+          "Portland",
+          "Hillsboro",
+          "Tigard"
+        ]
+      },
+      {
+        "city": "Hillsboro",
+        "slug": "hillsboro-or",
+        "state": "OR",
+        "content": "S&S Washing LLC proudly serves the growing community of Hillsboro, Oregon. As a hub of the tech corridor, Hillsboro boasts many newer homes and modern developments. While newer materials are often more resistant to grime, regular cleaning is still essential to maintain their pristine appearance and prevent long-term damage.\n\nWe offer a comprehensive range of pressure washing services tailored to the specific needs of Hillsboro's diverse housing stock. From removing dirt and debris from siding to cleaning patios and walkways, our experienced technicians use advanced equipment and eco-friendly solutions to deliver exceptional results. We are dedicated to keeping Hillsboro homes looking their best.",
+        "localContext": "Hillsboro's rapid growth means many newer homes benefit from regular pressure washing to maintain their curb appeal. We are ready to help.",
+        "nearbyAreas": [
+          "Beaverton",
+          "Cornelius",
+          "Forest Grove"
+        ]
+      },
+      {
+        "city": "Lake Oswego",
+        "slug": "lake-oswego-or",
+        "state": "OR",
+        "content": "S&S Washing LLC is delighted to provide pressure washing services to the upscale community of Lake Oswego, Oregon. Known for its beautiful lakefront properties and well-manicured landscapes, Lake Oswego demands a high level of quality and attention to detail.\n\nWe understand the unique needs of Lake Oswego homeowners and offer specialized cleaning services to protect and enhance the beauty of your property. Our team uses gentle, low-pressure washing techniques to safely clean delicate surfaces, such as wood siding, stone patios, and intricate architectural details. We are committed to providing exceptional service and ensuring your Lake Oswego home maintains its elegance and value.",
+        "localContext": "Lake Oswego's proximity to the lake and wooded areas contributes to algae and mildew growth. Our services are designed to combat these issues.",
+        "nearbyAreas": [
+          "West Linn",
+          "Tualatin",
+          "Portland"
+        ]
+      },
+      {
+        "city": "Tigard",
+        "slug": "tigard-or",
+        "state": "OR",
+        "content": "S&S Washing LLC is pleased to serve the residents of Tigard, Oregon, with our professional pressure washing services. Tigard is characterized by many established neighborhoods featuring homes built in the 1970s and 80s. Like Beaverton, these homes are susceptible to the effects of the Pacific Northwest's wet climate.\n\nWe specialize in cleaning a variety of surfaces commonly found in Tigard homes, including siding, roofs, decks, and driveways. Our team uses environmentally friendly cleaning solutions and proven techniques to remove dirt, grime, moss, and algae effectively. We are dedicated to providing reliable service and helping Tigard homeowners maintain the beauty and value of their properties.",
+        "localContext": "Many homes in Tigard were built in the 1970s and 80s and require regular pressure washing to remove moss and algae common in the wet climate.",
+        "nearbyAreas": [
+          "Beaverton",
+          "Tualatin",
+          "Lake Oswego"
+        ]
+      },
+      {
+        "city": "Portland",
+        "slug": "portland-or",
+        "state": "OR",
+        "content": "S&S Washing LLC is proud to offer comprehensive pressure washing services throughout Portland, Oregon. From historic Victorian homes in the inner city to modern residences in the suburbs, Portland's diverse architecture requires a knowledgeable and experienced cleaning team.\n\nWe cater to the unique needs of Portland homeowners and businesses, providing services ranging from siding and roof cleaning to graffiti removal and commercial building washing. Our commitment to using eco-friendly practices and delivering exceptional results has made us a trusted choice in the Portland metro area. We strive to keep Portland looking its best, one clean surface at a time.",
+        "localContext": "Portland's varied climate and urban environment contribute to the accumulation of dirt and grime on buildings. Our services are designed to address these specific challenges.",
+        "nearbyAreas": [
+          "Gresham",
+          "Beaverton",
+          "Vancouver, WA"
+        ]
+      },
+      {
+        "city": "Gresham",
+        "slug": "gresham-or",
+        "state": "OR",
+        "content": "S&S Washing LLC extends its professional pressure washing services to Gresham, Oregon. As the fourth largest city in Oregon, Gresham features a mix of residential and commercial properties, all benefiting from regular exterior cleaning.\n\nWe understand the specific needs of Gresham residents and businesses, offering a wide range of services including house washing, roof cleaning, driveway cleaning, and commercial building maintenance. We are dedicated to providing reliable service and outstanding results, ensuring Gresham properties maintain their value and curb appeal. We use eco-friendly cleaning solutions and proven techniques to effectively remove dirt, grime, and other contaminants.",
+        "localContext": "Gresham's location east of Portland means it experiences similar weather patterns, leading to moss and algae growth that requires regular cleaning.",
+        "nearbyAreas": [
+          "Portland",
+          "Troutdale",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "West Linn",
+        "slug": "west-linn-or",
+        "state": "OR",
+        "content": "S&S Washing LLC is pleased to offer pressure washing services to West Linn, Oregon. Known for its beautiful homes and family-friendly environment, West Linn residents take pride in maintaining their properties. We understand the importance of curb appeal and offer a comprehensive range of cleaning services to keep West Linn homes looking their best.\n\nFrom siding and roof cleaning to deck and patio restoration, our experienced technicians use advanced equipment and eco-friendly solutions to deliver exceptional results. We are committed to providing reliable service and ensuring customer satisfaction in West Linn.",
+        "localContext": "West Linn's affluent community values well-maintained properties, making pressure washing a necessary service for homeowners.",
+        "nearbyAreas": [
+          "Lake Oswego",
+          "Tualatin",
+          "Oregon City"
+        ]
+      },
+      {
+        "city": "Tualatin",
+        "slug": "tualatin-or",
+        "state": "OR",
+        "content": "S&S Washing LLC proudly serves the community of Tualatin, Oregon, with professional pressure washing services. Tualatin's mix of residential and commercial properties benefits from regular cleaning to maintain its appearance and value.\n\nWe offer a variety of services tailored to the specific needs of Tualatin residents and businesses, including house washing, roof cleaning, driveway cleaning, and commercial building maintenance. We use environmentally friendly cleaning solutions and proven techniques to effectively remove dirt, grime, and other contaminants. Our goal is to provide reliable service and outstanding results, ensuring Tualatin properties look their best.",
+        "localContext": "Tualatin's location in the Portland metro area means it experiences similar weather patterns, contributing to the need for regular pressure washing.",
+        "nearbyAreas": [
+          "Tigard",
+          "Wilsonville",
+          "Sherwood"
+        ]
+      },
+      {
+        "city": "Wilsonville",
+        "slug": "wilsonville-or",
+        "state": "OR",
+        "content": "S&S Washing LLC is happy to provide our expert pressure washing services to Wilsonville, Oregon. With a mix of residential neighborhoods and commercial centers, Wilsonville benefits from our professional cleaning services to maintain property values and aesthetics.\n\nWe offer comprehensive cleaning solutions tailored to Wilsonville's diverse properties, including house washing, roof cleaning, and commercial building maintenance. Our team uses environmentally friendly products and proven techniques to effectively remove dirt, grime, and unwanted growth. We are committed to providing reliable, high-quality service to ensure Wilsonville properties shine.",
+        "localContext": "Wilsonville has a mix of older and newer properties, all of which can benefit from regular pressure washing to remove accumulated dirt and maintain curb appeal.",
+        "nearbyAreas": [
+          "Tualatin",
+          "Sherwood",
+          "Canby"
+        ]
+      },
+      {
+        "city": "Sherwood",
+        "slug": "sherwood-or",
+        "state": "OR",
+        "content": "S&S Washing LLC is dedicated to serving the residents of Sherwood, Oregon, with our top-quality pressure washing services. Sherwood's growing community and well-maintained homes benefit from our attention to detail and commitment to customer satisfaction.\n\nWe offer a range of services tailored to Sherwood's specific needs, including house washing, roof cleaning, driveway cleaning, and deck restoration. Our experienced team uses eco-friendly cleaning solutions and proven techniques to effectively remove dirt, moss, and algae, ensuring your Sherwood property looks its best. We are committed to providing reliable service and outstanding results.",
+        "localContext": "Sherwood's family-friendly atmosphere and focus on community pride make maintaining clean and attractive homes a priority.",
+        "nearbyAreas": [
+          "Wilsonville",
+          "Tualatin",
+          "Newberg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "House Washing",
+        "text": "S&S Washing did an amazing job on our house in the Hawthorne district. Our siding was covered in moss and algae, and now it looks brand new! They were professional, efficient, and very reasonably priced. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Driveway Cleaning",
+        "text": "Our driveway was a mess with oil stains and dirt. S&S Washing came out and made it look like new again. They were on time and did a great job. I only wish they had sealed it afterward, but overall very satisfied.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Roof Cleaning",
+        "text": "We had S&S Washing clean our roof, which had a lot of moss growing on it. They did a fantastic job and were very careful not to damage anything. They used a soft wash technique and the roof looks pristine. Great service!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "John P.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "S&S Washing cleaned our gutters and they are now flowing freely. They were very thorough and even took pictures to show us the before and after. Excellent communication and service.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Lisa G.",
+        "rating": 4,
+        "service": "Fence Cleaning",
+        "text": "Our wood fence was looking pretty weathered. S&S Washing cleaned it up and it made a huge difference. The fence looks much newer and brighter. They were quick and efficient.",
+        "date": "2024-07-22"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Commercial Pressure Washing",
+        "text": "S&S Washing does a fantastic job keeping the exterior of our building clean. They are responsive and always do a thorough job. Highly recommended for any business in Portland!",
+        "date": "2025-02-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "S&S Washing LLC | Pressure Washing Portland",
+        "description": "Portland's top pressure washing company. House, roof, driveway cleaning & more. Free quotes! Call +15038605658"
+      },
+      "about": {
+        "title": "About S&S Washing LLC | Portland, OR",
+        "description": "Learn about S&S Washing LLC in Portland. Our commitment to quality, eco-friendly practices, and customer satisfaction."
+      },
+      "services": {
+        "title": "S&S Washing Services | Portland, OR",
+        "description": "Pressure washing services in Portland, OR. House washing, roof cleaning, driveway cleaning, and more. Expert cleaning!"
+      },
+      "contact": {
+        "title": "Contact S&S Washing LLC | Portland, OR",
+        "description": "Contact S&S Washing LLC for pressure washing in Portland. Get a free quote today! Call +15038605658"
+      },
+      "reviews": {
+        "title": "S&S Washing Reviews | Pressure Washing Portland",
+        "description": "Read reviews for S&S Washing LLC. See what our satisfied customers are saying about our pressure washing services in Portland."
+      },
+      "service-areas": {
+        "title": "S&S Washing Service Areas | Portland Metro",
+        "description": "S&S Washing LLC provides pressure washing services across the Portland metro area. Serving Beaverton, Hillsboro, and more!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "house-washing": "/images/service-house-washing.webp",
+      "roof-cleaning": "/images/service-roof-cleaning.webp",
+      "driveway-and-patio-cleaning": "/images/service-driveway-and-patio-cleaning.webp",
+      "fence-cleaning": "/images/service-fence-cleaning.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "commercial-pressure-washing": "/images/service-commercial-pressure-washing.webp"
+    },
+    "servicesResponsive": {
+      "house-washing": {
+        "src": "/images/service-house-washing.webp",
+        "srcset": "/images/service-house-washing-400w.webp 400w, /images/service-house-washing-800w.webp 800w, /images/service-house-washing-1200w.webp 1200w, /images/service-house-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-cleaning": {
+        "src": "/images/service-roof-cleaning.webp",
+        "srcset": "/images/service-roof-cleaning-400w.webp 400w, /images/service-roof-cleaning-800w.webp 800w, /images/service-roof-cleaning-1200w.webp 1200w, /images/service-roof-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-and-patio-cleaning": {
+        "src": "/images/service-driveway-and-patio-cleaning.webp",
+        "srcset": "/images/service-driveway-and-patio-cleaning-400w.webp 400w, /images/service-driveway-and-patio-cleaning-800w.webp 800w, /images/service-driveway-and-patio-cleaning-1200w.webp 1200w, /images/service-driveway-and-patio-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-cleaning": {
+        "src": "/images/service-fence-cleaning.webp",
+        "srcset": "/images/service-fence-cleaning-400w.webp 400w, /images/service-fence-cleaning-800w.webp 800w, /images/service-fence-cleaning-1200w.webp 1200w, /images/service-fence-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-pressure-washing": {
+        "src": "/images/service-commercial-pressure-washing.webp",
+        "srcset": "/images/service-commercial-pressure-washing-400w.webp 400w, /images/service-commercial-pressure-washing-800w.webp 800w, /images/service-commercial-pressure-washing-1200w.webp 1200w, /images/service-commercial-pressure-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
